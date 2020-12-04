@@ -1,6 +1,6 @@
 name = "Birch_Standard_jll"
 uuid = "acd4faa2-4a7b-5a95-a73e-c243ef4528a3"
-version = "1.75.0+0"
+version = "1.104.0+0"
 
 [deps]
 LibYAML_jll = "f531010a-71ee-5b11-8e71-2f13f29d8a82"
@@ -16,4 +16,4 @@ boost_jll = "28df3c45-c428-5900-9ff8-a3135698ca75"
 [compat]
 JLLWrappers = "1.1.0"
 julia = "1.0"
-LibBirch_jll = "=1.75.0"
+LibBirch_jll = "=1.104.0"
